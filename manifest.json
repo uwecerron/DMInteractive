@@ -2,7 +2,7 @@
     "browser_action": {
         "default_icon": "icons/icon.png",
         "default_popup": "popup.html",
-        "default_title": "Grammars"
+        "default_title": "DMInteractive"
     },
     "description": "Send text to your phone to read",
     "homepage_url": "https://github.com/ggreer/history-stats",
@@ -11,7 +11,7 @@
         "48": "icons/icon48.png"
     },
     "manifest_version": 2,
-    "name": "Grammars",
+    "name": "DMInteractive",
     "permissions": [
         "<all_urls>",
         "chrome://favicon/",
