@@ -25,14 +25,14 @@
                 if(st!=''){
                   console.log("You selected:\n"+st);
                    ws.send(st);
-                   // $.post('http://mainpage.us/app/textrain/api.php?@=3055625689&word='+st);
+                   // $.post('http://mainpage.us/app/textrain/api.php?@=yourphonenumber&word='+st);
                 }
             }
 
             $(document).ready(function(){
                 $(document).bind("mouseup", Kolich.Selector.mouseup);
                   ws.send(st);
-                  $.post('http://mainpage.us/app/textrain/api.php?@=3055625689&word='+st);
+                  $.post('http://mainpage.us/app/textrain/api.php?@=yourphonenumber&word='+st);
             });
 
                     
