@@ -9,7 +9,7 @@ Just trying to create a tool that will help people keep listening or reading the
 
 ## TODO
 
-* Upload Networking Code.
+* Upload P2P Networking Code.
 * Android App
-* GCM Network or something else for connectivity.
-* Cleaning up the code
+* GCM Network samples.
+* Clean up the code
