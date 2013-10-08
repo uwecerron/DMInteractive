@@ -9,7 +9,6 @@ Just trying to create a tool that will help people keep listening or reading the
 
 ## TODO
 
-* Upload P2P Networking Code.
-* Android App
-* GCM Network samples.
-* Clean up the code
+* Upload IOS APP.
+* Finish Restful Web Service.
+* Focus on Client Server security.
